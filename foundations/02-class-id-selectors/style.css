@@ -1,0 +1,19 @@
+.odd-but-cool{
+    font-size: 24px;
+}
+
+#even{
+    color:#a2aaf5;
+    font-size:36px;
+
+}
+#evener{
+    background-color: #97f7ad;
+    font-size: 24px;
+    font-weight: bold;
+}
+.odd{
+    background-color: #f57aad;
+    font-family: Verdana, "DeJaVu Sans", sans-serif
+
+}
